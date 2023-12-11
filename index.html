@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+    <link rel="stylesheet" href='./assets/css/ui.css'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta property="og:image" content="preview.jpg">
+    <title> </title>
+    <style>
+        /* Загальні стилі для всіх пристроїв */
+        body {
+            font-size: 16px; /* Збільшуємо розмір шрифту для зручності на малих екранах */
+        }
+    </style>
+    <style>
+        @media (max-width: 768px) {
+            /* Стилі для мобільних телефонів */
+            .Menu {
+                padding: 10px; /* Додамо відступи навколо меню */
+            }
+            .MenuItem {
+                padding: 10px; /* Додамо відступи навколо пунктів меню */
+            }
+            .MenuContent {
+                padding: 10px; /* Додамо відступи навколо вмісту меню */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="StartupScreen">
+        <img src="./assets/images/logo.png" alt="PS3" class="StartupScreenPS3">
+    </div>
+    <div class="logo-container">
+        <img src="./assets/images/logo.png" alt="Логотип" class="logo">
+    </div>
+    <div class="Menu">
+        <div class="MenuItems">
+            <div class="MenuItem MenuItemActive" onclick="GoTo(this, '#Home')">
+                <div>
+                    <img src="./assets/XMB/Icons/Icons.6.png" alt="">
+                </div>
+                <div>
+                    <span>
+                        Головна
+                    </span>
+                </div>
+            </div>
+            
+            <div class="MenuItem" onclick="GoTo(this, '#Projects')">
+                <div>
+                    <img src="./assets/XMB/Icons/Icons.8.png" alt="">
+                </div>
+                <div>
+                    <span>
+                        Наші проекти
+                    </span>
+                </div>
+            </div>
+            <div class="MenuItem" onclick="openInNewWindow()">
+                <div>
+                    <img src="./assets/images/GitHub.png" alt="">
+                </div>
+                <div>
+                    <span>
+                        Віртуальна екскурсія
+                    </span>
+                </div>
+            </div>
+            <div class="MenuItem" onclick="GoTo(this, '#Contacts')">
+                <div>
+                    <img src="./assets/XMB/Icons/Icons.4.png" alt="">
+                </div>
+                <div>
+                    <span>
+                        Контакти (соц.мережі)
+                    </span>
+                </div>
+            </div>
+            <div class="MenuItem" id="LookAtBackground">
+                <div>
+                    <img src="./assets/XMB/Icons/Icons.38.png" alt="">
+                </div>
+                <div>
+                    <span>
+                        Галерея
+                    </span>
+                </div>
+            </div>
+        </div>
+        <div class="MenuContent" id="Home">
+            <h1>
+                Головна
+            </h1>
+            <div>
+                <span>
+                    Привіт! Опис щодо гуртка "Комп'ютерна графіка" буде тут
+                </span>
+            </div>
+        </div>
+        <div class="MenuContent" id="Projects" style="display: none;">
+            <h1>
+                Наші проекти
+            </h1>
+            <div>
+                <div>
+                    <span>
+                        тут пусто...
+                    </span>
+                </div>
+            </div>
+        </div>
+        <div class="MenuContent" id="Contacts" style="display: none;">
+            <h1>
+                Контакти
+            </h1>
+            <div>
+                <div>
+                    <span>
+                        Мій Telegram - <a href="https://t.me/iamflydelick">@iamflydelick</a><br>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+    function openInNewWindow() {
+        window.open('./output/index2.html', '_blank');
+    }
+    </script>
+</body>
+<script src="./assets/js/ui.js"></script>
+</html>

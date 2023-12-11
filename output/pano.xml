@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.14" apprev="18105" start="node2">
+  <panorama id="node2">
+    <input width="2607" overlap="1" levelingroll="-0.08574950000000001" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="-0.760287" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="44.68">
+      <start projection="4" pan="-0.26" tilt="-1" fov="49"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="294.64"/>
+      <min fovpixel="1" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="1_поверх" comment="" title="" datetime="4/24/2023 9:37 AM" source="" info="" customnodeid="" latitude="49.06886775" longitude="23.85194786" description="" author="" nodeid="node2" heading="44.68" streetviewlink="https://www.google.com/maps/@49.0688678,23.8519479,3a,75y,44.94h/data=!3m4!1e1!3m2!1sAF1QipNQdOzyFrwY9fp7Ep6glTXko-FMi3YeP5fSddu3!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <hotspot title="" skinid="ht_image_audio" url="images/Табличка.jpg" description="" target="" pan="-14.68" tilt="3.19" id="Point01"/>
+      <hotspot title="" skinid="ht_image_audio2" url="images/Табличка.jpg" description="" target="" pan="-21.88" tilt="2.94" id="Point02"/>
+      <hotspot title="" skinid="ht_node_new" url="{node3}" description="" target="50.6/-0.5/70.0" pan="-0.24" tilt="-3.51" id="Point04" distance="3.95689"/>
+      <polyhotspot title="" url="" description="" target="_blank" id="Poly01">
+        <polystring>-14.33/8.18|-14.56/2.64|-21.69/2.72|-22.11/2.84|-22.07/8.11</polystring>
+      </polyhotspot>
+      <polyhotspot borderalpha="1" title="" url="{node3}" bordercolor="0x0000ff" description="" target="52.0/6.6/70.0" backgroundcolor="0x00aa00" id="Poly02" backgroundalpha="0.25098">
+        <polystring>-349.37/-18.61|-349.49/17.65|-9.11/17.8|-9.3/-15.87|-9.14/-18.36</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" nodechangekeep="0" level="0.900" pansize="10.000" tiltsize="10.000" ambientlevel="0.000" startmutedmobile="0" field="90.000" pan="-1.000" tilt="-1.000" id="_background" mode="0">
+        <source url="media/MELODIA_LODER.mp3"/>
+      </sound>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="3601" overlap="1" levelingroll="0" leveltilesize="700" levelbias="0.400" height="3601" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="3601" predecode="0" height="3601" preload="0"/>
+      <level width="1800" predecode="0" height="1800" preload="0"/>
+      <level width="900" predecode="0" height="900" preload="0"/>
+      <level width="450" predecode="1" height="450" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="68.28">
+      <start projection="4" pan="47.94" tilt="11.44" fov="70"/>
+      <flyin projection="4" pan="-177.46" tilt="-6.02" fov="77.45"/>
+      <min fovpixel="2" pan="-180" tilt="-57.5161"/>
+      <max fovfisheye="360" pan="180" tilt="57.5161" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="1_поверх" comment="" title="" datetime="4/14/2023 10:59 AM" source="" info="" customnodeid="" latitude="49.06888883" longitude="23.85199162" description="" author="" nodeid="node3" altitude="369.80" heading="68.28" streetviewlink="https://www.google.com/maps/@49.0688888,23.8519916,3a,75y,22.22h/data=!3m4!1e1!3m2!1sAF1QipMQ_cCFlvEFkcqhLH4x2VG79R7HHiG7cUQQng4g!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <hotspot title="" skinid="ht_node_new" url="{node4}" description="" target="17.0/-5.2/83.9" pan="45.67" tilt="2.05" id="Point03" distance="4.29353"/>
+      <hotspot title="" skinid="ht_node_new" url="{node2}" description="" target="-165.4/-3.4/49.0" pan="-177.77" tilt="-11.02" id="Point04" distance="3.95689"/>
+      <polyhotspot borderalpha="1" title="" url="{node4}" bordercolor="0x0000ff" description="" target="14.0/-13.5/70.0" backgroundcolor="0xffff7f" id="Poly01" backgroundalpha="0.25098">
+        <polystring>-318.99/-5.88|-305.15/-5.39|-312.55/11.08|-312.83/23.83|-321.32/0.91</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" nodechangekeep="0" level="1.000" pansize="10.000" tiltsize="10.000" ambientlevel="0.000" startmutedmobile="0" field="90.000" pan="-1.000" tilt="-1.000" id="_background" mode="0">
+        <source url="media/Perehod.mp3"/>
+      </sound>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="2607" overlap="1" levelingroll="0.315137" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="-0.305817" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="122.88">
+      <start projection="4" pan="28.98" tilt="-5.8" fov="83.9"/>
+      <flyin projection="4" pan="-89.32" tilt="-7.93" fov="83.9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="1_поверх" comment="" title="" datetime="4/19/2023 12:39 PM" source="" info="" customnodeid="" latitude="49.06892270" longitude="23.85201992" description="" author="" nodeid="node4" heading="122.88" streetviewlink="https://www.google.com/maps/@49.0689227,23.8520199,3a,75y,84.26h/data=!3m4!1e1!3m2!1sAF1QipNb7RlVPao6BellCcEFfgWuJlWYLj-R2ikZd096!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <polyhotspot title="" url="{node5}" description="" target="-73.0/-9.3/70.0" id="Poly01">
+        <polystring>-302.61/-46.97|-330.14/-39.19|-331.48/11.35|-301.35/16.61|-301.59/16.91</polystring>
+      </polyhotspot>
+      <polyhotspot title="" url="{node3}" description="" target="-175.9/-2.7/70.0" id="Poly02">
+        <polystring>-88.9/-21.58|-89.35/-30.5|-106.42/-30.92|-106.2/0.62|-88.1/0.42|-78.51/-19.81</polystring>
+      </polyhotspot>
+      <polyhotspot title="" url="{node16}" description="" target="" id="Poly03">
+        <polystring>-73.29/5.11|-91.12/4.25|-80.49/32.38|-81.35/23.78|-78.74/16.21</polystring>
+      </polyhotspot>
+      <hotspot title="" skinid="ht_node_new" url="{node5}" description="" target="" pan="-317.95" tilt="-5.65" id="Point01" distance="6.1164"/>
+      <hotspot title="" skinid="ht_node_new" url="{node16}" description="" target="" pan="-77.24" tilt="12.52" id="Point02" distance="4.06663"/>
+      <hotspot title="" skinid="ht_node_new" url="{node3}" description="" target="" pan="-95.73" tilt="-13.63" id="Point03" distance="4.29353"/>
+    </hotspots>
+    <media>
+      <sound loop="1" nodechangekeep="0" level="1.000" pansize="10.000" tiltsize="10.000" ambientlevel="0.000" startmutedmobile="0" field="90.000" pan="-1.000" tilt="-1.000" id="_background" mode="0">
+        <source url="media/Perehod.mp3"/>
+      </sound>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="3601" overlap="1" levelingroll="0" leveltilesize="700" levelbias="0.400" height="3601" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="3601" predecode="0" height="3601" preload="0"/>
+      <level width="1800" predecode="0" height="1800" preload="0"/>
+      <level width="900" predecode="0" height="900" preload="0"/>
+      <level width="450" predecode="1" height="450" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-29.44">
+      <start projection="4" pan="-73.7" tilt="-2.4" fov="70"/>
+      <flyin projection="9" pan="96.35" tilt="-85.28" fov="168.51"/>
+      <min fovpixel="2" pan="-180" tilt="-57.5161"/>
+      <max fovfisheye="360" pan="180" tilt="57.5161" fovstereographic="168.51" fov="120"/>
+    </view>
+    <userdata copyright="" tags="1_поверх" comment="" title="" datetime="4/12/2023 11:07 AM" source="" info="" customnodeid="" latitude="49.06896334" longitude="23.85207650" description="" author="" nodeid="node5" heading="-29.44" streetviewlink="https://www.google.com/maps/@49.0689633,23.8520765,3a,75y,131.59h/data=!3m4!1e1!3m2!1sAF1QipP2OUobqF7BeqULPnzxI5xwGpIRPtQpMr_TD9Q6!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <polyhotspot title="" url="{node4}" description="" target="-73.0/-17.8/70.0" id="Poly01">
+        <polystring>-230.61/-56.72|-292.4/-54.82|-292.23/21.45|-226.59/22.24</polystring>
+      </polyhotspot>
+      <hotspot title="" skinid="ht_node4" url="{node9}" description="" target="-72.6/0.0/70.0" pan="-164.877" tilt="0" id="Point01" distance="2.61415"/>
+      <hotspot title="" skinid="ht_node4" url="{node6}" description="" target="$fwd" pan="15.5426" tilt="0" id="Point02" distance="2.93503"/>
+      <hotspot title="" skinid="ht_node4" url="{node12}" description="" target="$fwd" pan="-73.7972" tilt="0" id="Point03" distance="3.52405"/>
+      <hotspot title="" skinid="ht_node_new" url="{node4}" description="" target="-79.4/-3.8/70.0" pan="-260.07" tilt="-8.42" id="Point05" distance="6.1164"/>
+    </hotspots>
+    <media>
+      <sound loop="1" nodechangekeep="0" level="1.000" pansize="10.000" tiltsize="10.000" ambientlevel="0.000" startmutedmobile="0" field="90.000" pan="-1.000" tilt="-1.000" id="_background" mode="0">
+        <source url="media/Perehod.mp3"/>
+      </sound>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="2607" overlap="1" levelingroll="0" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="49.53">
+      <start projection="4" pan="94.21" tilt="-0.3" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="1_поверх" comment="" title="" datetime="4/12/2023 1:34 PM" source="" info="" customnodeid="" latitude="49.06898201" longitude="23.85204802" description="" author="" nodeid="node6" altitude="335.86" heading="49.53" streetviewlink="https://www.google.com/maps/@49.068982,23.852048,3a,75y,315.32h/data=!3m4!1e1!3m2!1sAF1QipNZaYUVufqjg3lTMiRKvg4yYG8_Xzn1qa804gyu!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <hotspot title="" skinid="ht_node4" url="{node5}" description="" target="$fwd" pan="-85.4874" tilt="0" id="Point02" distance="2.93503"/>
+      <hotspot title="" skinid="ht_node4" url="{node7}" description="" target="$fwd" pan="94.5952" tilt="0" id="Point03" distance="3.82404"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="2607" overlap="1" levelingroll="0" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="29">
+      <start projection="4" pan="73.44" tilt="-0.37" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="1_поверх" comment="" title="" datetime="4/12/2023 1:47 PM" source="" info="" customnodeid="" latitude="49.06900630" longitude="23.85201086" description="" author="" nodeid="node7" heading="29" streetviewlink="https://www.google.com/maps/@49.0690063,23.8520109,3a,75y,315.56h/data=!3m4!1e1!3m2!1sAF1QipPnu2bQeoskxS_onujPGx5HojdvyxY9HbSWzhDB!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <hotspot title="" skinid="ht_node4" url="{node6}" description="" target="$fwd" pan="-105.935" tilt="0" id="Point01" distance="3.82404"/>
+      <hotspot title="" skinid="ht_node4" url="{node8}" description="" target="$fwd" pan="73.4126" tilt="0" id="Point02" distance="3.71418"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="2607" overlap="1" levelingroll="0" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="70.98">
+      <start projection="4" pan="-84.26" tilt="-1.49" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="1_поверх" comment="" title="" datetime="4/12/2023 2:14 PM" source="" info="" customnodeid="" latitude="49.06903016" longitude="23.85197518" description="" author="" nodeid="node8" heading="70.98" streetviewlink="https://www.google.com/maps/@49.0690302,23.8519752,3a,75y,155.24h/data=!3m4!1e1!3m2!1sAF1QipOVucjAwqpEjuZj0KrpQomVBSn46yOhQteRv4YU!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <hotspot title="" skinid="ht_node4" url="{node7}" description="" target="$fwd" pan="-64.6074" tilt="0" id="Point01" distance="3.71418"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input width="2607" overlap="1" levelingroll="0" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="62.81">
+      <start projection="4" pan="-42.0182" tilt="-20.1349" fov="106.889"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="1_поверх" comment="" title="" datetime="4/12/2023 1:25 PM" source="" info="" customnodeid="" latitude="49.06894659" longitude="23.85210168" description="" author="" nodeid="node9" heading="62.81" streetviewlink="https://www.google.com/maps/@49.0689466,23.8521017,3a,75y,135.39h/data=!3m4!1e1!3m2!1sAF1QipMHPPzJ2iAvuNrIuyWUVHc-Slyeicl6yqZagxjj!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <hotspot title="" skinid="ht_node4" url="{node5}" description="" target="$fwd" pan="107.373" tilt="0" id="Point01" distance="2.61415"/>
+      <hotspot title="" skinid="ht_node4" url="{node10}" description="" target="$fwd" pan="-72.4666" tilt="0" id="Point02" distance="3.00949"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input width="2607" overlap="1" levelingroll="-0.947491" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="-0.241825" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="59.41">
+      <start projection="4" pan="-73.94" tilt="-0.01" fov="72.18"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="1_поверх" comment="" title="" datetime="4/12/2023 2:23 PM" source="" info="" customnodeid="" latitude="49.06892736" longitude="23.85213075" description="" author="" nodeid="node10" heading="59.41" streetviewlink="https://www.google.com/maps/@49.0689274,23.8521308,3a,75y,133.35h/data=!3m4!1e1!3m2!1sAF1QipOgY2GsEhEBYz_IGqEOMe5v_rJi-w7cjjm__8Sm!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <hotspot title="" skinid="ht_node4" url="{node9}" description="" target="$fwd" pan="104.133" tilt="0" id="Point01" distance="3.00949"/>
+      <hotspot title="" skinid="ht_node4" url="{node11}" description="" target="$fwd" pan="-76.0504" tilt="0" id="Point02" distance="3.84084"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input width="2607" overlap="1" levelingroll="1.42001" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="2.33595" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="200.47">
+      <start projection="4" pan="66.03" tilt="-1.79" fov="98.81"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="1_поверх" comment="" title="" datetime="4/12/2023 2:34 PM" source="" info="" customnodeid="" latitude="49.06890274" longitude="23.85216773" description="" author="" nodeid="node11" heading="200.47" streetviewlink="https://www.google.com/maps/@49.0689027,23.8521677,3a,75y,134.44h/data=!3m4!1e1!3m2!1sAF1QipML8GAdA2KAyeuKBZc2ZBHfjpk9vm_NGE_Bhq1c!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <hotspot title="" skinid="ht_node4" url="{node10}" description="" target="$fwd" pan="245.01" tilt="0" id="Point01" distance="3.84084"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input width="2607" overlap="1" levelingroll="0" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-77.54">
+      <start projection="4" pan="58.05" tilt="-3.39" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="1_поверх" comment="" title="" datetime="4/13/2023 11:21 AM" source="" info="" customnodeid="" latitude="49.06898600" longitude="23.85211032" description="" author="" nodeid="node12" heading="-77.54" streetviewlink="https://www.google.com/maps/@49.068986,23.8521103,3a,75y,224.41h/data=!3m4!1e1!3m2!1sAF1QipNYvQA0VRhFT-ow3pYGiymz6nQSNHXaEXZLPouY!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <hotspot title="" skinid="ht_node3" url="{node5}" description="" target="$fwd" pan="58.1028" tilt="0" id="Point01" distance="3.52405"/>
+      <hotspot title="" skinid="ht_node4" url="{node13}" description="" target="$fwd" pan="-120.785" tilt="0" id="Point02" distance="5.19317"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input width="2607" overlap="1" levelingroll="0" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="40.77">
+      <start projection="4" pan="-3.14" tilt="0.25" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="1_поверх" comment="" title="" datetime="5/3/2023 12:24 PM" source="" info="" customnodeid="" latitude="49.06902002" longitude="23.85215916" description="" author="" nodeid="node13" heading="40.77" streetviewlink="https://www.google.com/maps/@49.06902,23.8521592,3a,75y,43.91h/data=!3m4!1e1!3m2!1sAF1QipONSdywas3P0hm1BIcO1qZ3xwtYq8irJFprVsJN!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <hotspot title="" skinid="ht_node3" url="{node12}" description="" target="$fwd" pan="177.525" tilt="0" id="Point01" distance="5.19317"/>
+      <hotspot title="" skinid="ht_node4" url="{node14}" description="" target="$fwd" pan="-2.96758" tilt="0" id="Point02" distance="4.66163"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input width="2607" overlap="1" levelingroll="0" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="38">
+      <start projection="4" pan="173.81" tilt="0.09" fov="84.01"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="1_поверх" comment="" title="" datetime="5/3/2023 1:31 PM" source="" info="" customnodeid="" latitude="49.06908489" longitude="23.85225458" description="" author="" nodeid="node15" heading="38" streetviewlink="https://www.google.com/maps/@49.0690849,23.8522546,3a,75y,224.19h/data=!3m4!1e1!3m2!1sAF1QipPAtlbSjUqsZQSyaWOLkNAjms-VUpcqm7V2JULY!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <hotspot title="" skinid="ht_node3" url="{node14}" description="" target="$fwd" pan="173.883" tilt="0" id="Point01" distance="5.35594"/>
+      <hotspot title="" skinid="ht_node4" url="{node17}" description="" target="$fwd" pan="-63.42" tilt="0.55" id="Point02" distance="2.73926"/>
+      <polyhotspot title="" url="" description="" target="" id="Poly01">
+        <polystring>-44.13/-34.33|-44.44/14.9|-80.39/23.46|-79.52/-49.54|-79.38/-49.93</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input width="2607" overlap="1" levelingroll="0" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="38.92">
+      <start projection="4" pan="-5.28" tilt="-0.1" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="1_поверх" comment="" title="" datetime="5/3/2023 12:32 PM" source="" info="" customnodeid="" latitude="49.06905031" longitude="23.85220340" description="" author="" nodeid="node14" altitude="-9999.00" heading="38.92" streetviewlink="https://www.google.com/maps/@49.0690503,23.8522034,3a,75y,44.2h/data=!3m4!1e1!3m2!1sAF1QipN0Jbk1eh3QaAUUsWYsMU8k0yaxlZPcuFWUrMRK!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <hotspot title="" skinid="ht_node3" url="{node13}" description="" target="$fwd" pan="175.182" tilt="0" id="Point01" distance="4.66163"/>
+      <hotspot title="" skinid="ht_node4" url="{node15}" description="" target="$fwd" pan="-5.1972" tilt="0" id="Point02" distance="5.35594"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input width="2607" overlap="1" levelingroll="1.39518" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="-1.49324" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-50.93">
+      <start projection="4" pan="-93.63" tilt="-9.16" fov="85.91"/>
+      <flyin projection="4" pan="-108.92" tilt="-21.83" fov="28.68"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="1_поверх" comment="" title="" datetime="4/12/2023 11:40 AM" source="" info="" customnodeid="" latitude="49.06888917" longitude="23.85199763" description="" author="" nodeid="node16" altitude="371.20" heading="-50.93" streetviewlink="https://www.google.com/maps/@49.0688892,23.8519976,3a,75y,42.7h/data=!3m4!1e1!3m2!1sAF1QipPBnN26GXaHJAwZhWTqOiajyoOaC7pen1U6Gw01!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <hotspot title="" skinid="ht_node_new" url="{node18}" description="" target="82.1/0.0/70.0" pan="-90.8" tilt="8.43" id="Point01" distance="5.5131"/>
+      <hotspot title="" skinid="ht_node_new" url="{node4}" description="" target="" pan="-115.27" tilt="-28.37" id="Point02" distance="4.06663"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input width="2607" overlap="1" levelingroll="0" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="103.39">
+      <start projection="4" pan="150.03" tilt="-12.19" fov="84.01"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="1_поверх" comment="" title="" datetime="4/24/2023 10:18 AM" source="" info="" customnodeid="" latitude="49.06906729" longitude="23.85228089" description="" author="" nodeid="node17" heading="103.39" streetviewlink="https://www.google.com/maps/@49.0690673,23.8522809,3a,75y,313.36h/data=!3m4!1e1!3m2!1sAF1QipPpYquh0AvL1vC3ASJQp1G2_wsE3Ut9ppV_qe7m!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <hotspot title="" skinid="ht_node3" url="{node15}" description="" target="$fwd" pan="147.793" tilt="0" id="Point01" distance="2.73926"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input width="2607" overlap="1" levelingroll="0.9457950000000001" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="1.41615" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="128">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="Program Files" comment="" title="" datetime="4/14/2023 9:33 AM" source="" info="" customnodeid="" latitude="49.06892542" longitude="23.85204926" description="" author="" nodeid="node18" heading="128" streetviewlink="https://www.google.com/maps/@49.0689254,23.8520493,3a,75y,128h/data=!3m4!1e1!3m2!1sAF1QipNGe8ecgT_KcKDF0rrPIunO6zwU62ZBw4HOy3GA!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <hotspot title="" skinid="ht_node_new" url="{node16}" description="" target="-105.9/-4.7/83.7" pan="248.21" tilt="-27.89" id="Point01" distance="5.5131"/>
+      <hotspot title="" skinid="ht_node_new" url="{node19}" description="" target="$fwd" pan="81.92" tilt="-1.12" id="Point02" distance="4.85947"/>
+      <polyhotspot title="" url="{node19}" description="" target="-28.6/0.9/62.2" id="Poly01">
+        <polystring>-256.79/-46.49|-254.63/18.04|-303.59/18.84|-304.62/-47.43</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input width="2607" overlap="1" levelingroll="0" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="17">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="Program Files" comment="" title="" datetime="4/14/2023 9:47 AM" source="" info="" customnodeid="" latitude="49.06896320" longitude="23.85208279" description="" author="" nodeid="node19" heading="17" streetviewlink="https://www.google.com/maps/@49.0689632,23.8520828,3a,75y,17h/data=!3m4!1e1!3m2!1sAF1QipOpRHhVt_xIgYMtIJUvBDMxWTPUSp5xFiDYOTm9!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <polyhotspot title="" url="{node18}" description="" target="-108.8/-25.5/70.0" id="Poly01">
+        <polystring>-184.5/-47.28|-183.07/16.68|-231.8/15.91|-230.89/-46.8|-230.86/-46.34</polystring>
+      </polyhotspot>
+      <polyhotspot title="" url="{node20}" description="" target="0.0/0.0/70.0" id="Poly02">
+        <polystring>-6.82/-48.75|-7.49/10.91|-4.62/10.85|-3.23/14.6|-53.34/13.34|-51.45/9.84|-49.55/9.83|-48.36/-48.04|-48.37/-48.12</polystring>
+      </polyhotspot>
+      <hotspot title="" skinid="ht_node_new" url="{node18}" description="" target="$fwd" pan="152.454" tilt="-2.13" id="Point01" distance="4.85947"/>
+      <hotspot title="" skinid="ht_node" url="{node20}" description="" target="9.6/-0.2/70.0" pan="-28.0036" tilt="-4.39" id="Point02" distance="0.570192"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input width="2607" overlap="1" levelingroll="0" leveltilesize="700" levelbias="0.400" height="2607" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2607" predecode="0" height="2607" preload="0"/>
+      <level width="1303" predecode="0" height="1303" preload="0"/>
+      <level width="651" predecode="1" height="651" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="54">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" tags="2_поверх" comment="" title="" datetime="" source="" info="" customnodeid="" latitude="49.06896584" longitude="23.85208950" description="" author="" nodeid="node20" heading="54" streetviewlink="https://www.google.com/maps/@49.0689658,23.8520895,3a,75y,54h/data=!3m4!1e1!3m2!1sAF1QipO3_daJuD6dnVIu-z_ZPWyo-T1Iyvp7th1wBxKp!2e10"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" wordwrap="1" width="180" border="1" bordercolor="0x000000" borderradius="10" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x000063" backgroundcolor="0x3ea8a5" mode="2" backgroundalpha="0.25098"/>
+      <hotspot title="" skinid="ht_node_new" url="{node19}" description="" target="" pan="-175.88" tilt="9.21" id="Point01" distance="0.570192"/>
+      <polyhotspot title="" url="{node19}" description="" target="-174.0/-8.8/70.0" id="Poly01">
+        <polystring>-154.69/-41.83|-153.95/12.64|-153.39/29.09|-153.49/35.15|-193.58/33.4|-192.04/-40.38|-191.41/-40.36</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="-1" level="1.000" url="media/skin_snd_marta.mp3" keep="1" id="marta" mode="0"/>
+      <sound loop="-1" level="0.800" url="media/skin_snd_TXT.mp3" keep="1" id="TXT" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_Perehod.mp3" keep="1" id="Perehod" mode="0"/>
+      <sound loop="-1" level="1.000" url="media/skin_snd_MELODIA_LODER.mp3" keep="1" id="MELODIA_LODER" mode="0"/>
+    </media>
+    <transition zoomafterinfov="90" zoomspeed="4" blendcolor="0x000000" type="irisroundcenter" zoomin="0" zoomfov="20" zoomafteroutfov="20" blendtime="1" zoomoutpause="0" enabled="1" softedge="0" zoomout="4"/>
+    <soundstransition transitiontime="0.1" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" invertwheel="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" contextvr="1" contextprojections="1" lockedkeyboard="0" hideabout="0" contextfullscreen="1" sensitivity="6" simulatemass="1" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" tags="" comment="" title="" datetime="" source="" info="" customnodeid="" latitude="" longitude="" description="" author="" nodeid="master" heading="0"/>
+  </masternode>
+  <map title="" type="web" mapstyle="streets" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" mapprovider="openstreetmap" id="Map01" mapmaxzoom="18"/>
+</tour>
